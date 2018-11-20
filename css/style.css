@@ -58,3 +58,18 @@ nav ul li a{
     display: flex;
     justify-content: space-between;
 }
+/*Projets */
+#nosProjets{
+    background-color: #f3f3f3;
+}
+#projets{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-right: 60px;
+    margin-left: 20px;
+}
+#projets img{
+    width:200px;
+    margin-bottom: 20px;
+}
