@@ -1,4 +1,16 @@
-
+.circle{
+    background-color: #23AFB4;
+    width:15px;
+    height:15px;
+    border-radius:50%;
+    margin:auto;
+    position: relative;
+    top:16px;
+}
+.separation{
+    width:80px;
+    margin:auto;
+}
 /* Menu de navigation */
 nav
 {
