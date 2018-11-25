@@ -41,6 +41,16 @@ h3{
     position: relative;
     top: 16px;
 }
+.bigCircle {
+    background-color: #23AFB4;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border:5px solid white;
+    margin: auto;
+    position: relative;
+    top: 35px;
+}
 
 .separation {
     width: 80px;
